@@ -6,7 +6,7 @@ const sender = (params) => {
             service: 'gmail',
             auth: {
                 user: 'raozhi19981006@gmail.com',
-                pass: 'raozhi19981006...'
+                pass: 'password'
             }
         });
 
